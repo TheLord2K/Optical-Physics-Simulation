@@ -1,31 +1,9 @@
 ## CORONASIMULATE  Simulate coronagraph and Gerchberg-Saxton algorithm
 #
 # A simulation of a coronagraph and the Gerchberg-Saxton algorithm, in the
-# context of NASA's Roman Space Telescope, developed to help teach ENCMP
-# 100 Computer Programming for Engineers at the University of Alberta. The
-# program saves output figures to PNG files for subsequent processing.
-#
-# Copyright (c) 2022, University of Alberta
-# Electrical and Computer Engineering
-# All rights reserved.
-#
-# Student name:Mohammad Khdeir
-# Student CCID:Khdeir
-# Others:
-#
-# To avoid plagiarism, list the names of persons, Version 0 author(s)
-# excluded, whose code, words, ideas, or data you used. To avoid
-# cheating, list the names of persons, excluding the ENCMP 100 lab
-# instructor and TAs, who gave you compositional assistance.
-#
-# After each name, including your own name, enter in parentheses an
-# estimate of the person's contributions in percent. Without these
-# numbers, adding to 100%, follow-up questions will be asked.
-#
-# For anonymous sources, enter pseudonyms in uppercase, e.g., SAURON,
-# followed by percentages as above. Email a link to or a copy of the
-# source to the lab instructor before the assignment is due.
-#
+# context of NASA's Roman Space Telescope
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 
