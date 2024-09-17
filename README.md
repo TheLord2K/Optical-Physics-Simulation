@@ -1,6 +1,4 @@
-
 #### **2. Optical Physics Simulation – GitHub README**
-
 ```markdown
 # Optical Physics Simulation 🔬
 
