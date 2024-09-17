@@ -1,13 +1,8 @@
 ## CORONAANIMATE  Animate coronagraph and Gerchberg-Saxton algorithm
 #
 # A simulation of a coronagraph and the Gerchberg-Saxton algorithm, in the
-# context of NASA's Roman Space Telescope, developed to help teach ENCMP
-# 100 Computer Programming for Engineers at the University of Alberta. The
+# context of NASA's Roman Space Telescope. The
 # program loads images from PNG files and produces an AVI video file.
-#
-# Copyright (c) 2022, University of Alberta
-# Electrical and Computer Engineering
-# All rights reserved.
 #
 import cv2
 
